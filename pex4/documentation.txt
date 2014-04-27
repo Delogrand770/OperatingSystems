@@ -1,0 +1,2 @@
+- I used code from my paradigms pex to implement the stack.
+- C2C Alex Thomson told me how to fix my output being off by one.

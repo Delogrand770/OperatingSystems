@@ -1,0 +1,7 @@
+For Producer Consumer I used the course text book and copied all the supplied code segments from the book into my code.
+I referenced the site "http://macboypro.wordpress.com/2009/05/25/producer-consumer-problem-using-cpthreadsbounded-buffer/" on how to use semaphores and mutex in C.
+
+For Dining Philosophers I used the course text book and copied the insert/remove methods from the book.
+I also used the arbitrary_num_threads.c from the sharepoint site.
+
+I recieved EI twice for both parts of the PEX.
